@@ -1,7 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f680e186-e574-4455-943b-8951785d60e3" name="Default" comment="" />
+    <list default="true" id="f680e186-e574-4455-943b-8951785d60e3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app/assets/images/tienda-online-.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/1/large/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/1/mini/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/1/original/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/1/product/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/1/small/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/10/large/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/10/mini/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/10/original/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/10/product/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/10/small/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/11/large/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/11/mini/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/11/original/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/11/product/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/11/small/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/12/large/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/12/mini/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/12/original/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/12/product/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/12/small/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/13/large/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/13/mini/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/13/original/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/13/product/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/13/small/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/14/large/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/14/mini/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/14/original/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/14/product/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/14/small/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/15/large/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/15/mini/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/15/original/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/15/product/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/15/small/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/16/large/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/16/mini/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/16/original/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/16/product/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/16/small/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/17/large/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/17/mini/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/17/original/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/17/product/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/17/small/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/18/large/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/18/mini/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/18/original/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/18/product/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/18/small/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/19/large/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/19/mini/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/19/original/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/19/product/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/19/small/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/2/large/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/2/mini/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/2/original/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/2/product/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/2/small/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/20/large/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/20/mini/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/20/original/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/20/product/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/20/small/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/21/large/ror_tote.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/21/mini/ror_tote.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/21/original/ror_tote.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/21/product/ror_tote.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/21/small/ror_tote.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/22/large/ror_tote_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/22/mini/ror_tote_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/22/original/ror_tote_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/22/product/ror_tote_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/22/small/ror_tote_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/23/large/ror_bag.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/23/mini/ror_bag.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/23/original/ror_bag.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/23/product/ror_bag.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/23/small/ror_bag.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/24/large/ror_baseball.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/24/mini/ror_baseball.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/24/original/ror_baseball.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/24/product/ror_baseball.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/24/small/ror_baseball.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/25/large/ror_baseball_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/25/mini/ror_baseball_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/25/original/ror_baseball_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/25/product/ror_baseball_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/25/small/ror_baseball_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/26/large/ror_jr_spaghetti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/26/mini/ror_jr_spaghetti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/26/original/ror_jr_spaghetti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/26/product/ror_jr_spaghetti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/26/small/ror_jr_spaghetti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/27/large/ror_mug.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/27/mini/ror_mug.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/27/original/ror_mug.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/27/product/ror_mug.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/27/small/ror_mug.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/28/large/ror_mug_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/28/mini/ror_mug_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/28/original/ror_mug_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/28/product/ror_mug_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/28/small/ror_mug_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/29/large/ror_ringer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/29/mini/ror_ringer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/29/original/ror_ringer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/29/product/ror_ringer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/29/small/ror_ringer.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/3/large/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/3/mini/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/3/original/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/3/product/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/3/small/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/30/large/ror_ringer_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/30/mini/ror_ringer_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/30/original/ror_ringer_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/30/product/ror_ringer_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/30/small/ror_ringer_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/31/large/ror_stein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/31/mini/ror_stein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/31/original/ror_stein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/31/product/ror_stein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/31/small/ror_stein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/32/large/ror_stein_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/32/mini/ror_stein_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/32/original/ror_stein_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/32/product/ror_stein_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/32/small/ror_stein_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/33/large/apache_baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/33/mini/apache_baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/33/original/apache_baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/33/product/apache_baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/33/small/apache_baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/34/large/ruby_baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/34/mini/ruby_baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/34/original/ruby_baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/34/product/ruby_baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/34/small/ruby_baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/35/large/spree_bag.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/35/mini/spree_bag.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/35/original/spree_bag.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/35/product/spree_bag.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/35/small/spree_bag.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/36/large/spree_tote_front.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/36/mini/spree_tote_front.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/36/original/spree_tote_front.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/36/product/spree_tote_front.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/36/small/spree_tote_front.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/37/large/spree_tote_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/37/mini/spree_tote_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/37/original/spree_tote_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/37/product/spree_tote_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/37/small/spree_tote_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/38/large/spree_ringer_t.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/38/mini/spree_ringer_t.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/38/original/spree_ringer_t.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/38/product/spree_ringer_t.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/38/small/spree_ringer_t.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/39/large/spree_ringer_t_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/39/mini/spree_ringer_t_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/39/original/spree_ringer_t_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/39/product/spree_ringer_t_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/39/small/spree_ringer_t_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/4/large/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/4/mini/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/4/original/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/4/product/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/4/small/ror_baseball_jersey_back_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/40/large/spree_spaghetti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/40/mini/spree_spaghetti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/40/original/spree_spaghetti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/40/product/spree_spaghetti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/40/small/spree_spaghetti.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/41/large/spree_jersey.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/41/mini/spree_jersey.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/41/original/spree_jersey.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/41/product/spree_jersey.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/41/small/spree_jersey.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/42/large/spree_jersey_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/42/mini/spree_jersey_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/42/original/spree_jersey_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/42/product/spree_jersey_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/42/small/spree_jersey_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/43/large/spree_stein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/43/mini/spree_stein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/43/original/spree_stein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/43/product/spree_stein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/43/small/spree_stein.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/44/large/spree_stein_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/44/mini/spree_stein_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/44/original/spree_stein_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/44/product/spree_stein_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/44/small/spree_stein_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/45/large/spree_mug.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/45/mini/spree_mug.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/45/original/spree_mug.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/45/product/spree_mug.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/45/small/spree_mug.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/46/large/spree_mug_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/46/mini/spree_mug_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/46/original/spree_mug_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/46/product/spree_mug_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/46/small/spree_mug_back.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/5/large/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/5/mini/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/5/original/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/5/product/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/5/small/ror_baseball_jersey_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/6/large/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/6/mini/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/6/original/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/6/product/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/6/small/ror_baseball_jersey_back_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/7/large/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/7/mini/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/7/original/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/7/product/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/7/small/ror_baseball_jersey_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/8/large/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/8/mini/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/8/original/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/8/product/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/8/small/ror_baseball_jersey_back_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/9/large/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/9/mini/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/9/original/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/9/product/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spree/products/9/small/ror_baseball_jersey_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/spree/backend/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/spree/backend/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/javascripts/spree/frontend/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/spree/frontend/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/backend/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/backend/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/spree/frontend/all.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -15,41 +257,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mailer.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/mailer.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mailer.text.erb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/mailer.text.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/environments/development.rb" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -57,125 +276,62 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1376" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="472" />
+    <option name="y" value="27" />
+    <option name="width" value="888" />
+    <option name="height" value="408" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Store 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Store 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Store 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Store 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Store 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Store 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Store 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Store 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Store 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Store 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="Pris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pris" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pris" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pris" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="environments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pris" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pris" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -190,18 +346,21 @@
     </option>
   </component>
   <component name="RunManager" selected="Rails.Development: Store 1">
-    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+    <configuration name="Development: Store 1" type="RailsRunConfigurationType" factoryName="Rails">
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="" />
+      <module name="Store 1" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
@@ -209,7 +368,96 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <method />
+    </configuration>
+    <configuration name="Production: Store 1" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="Store 1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+    </configuration>
+    <configuration name="spec: Store 1" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="Store 1" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+    </configuration>
+    <configuration name="test: Store 1" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="Store 1" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
     </configuration>
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="" />
@@ -230,97 +478,15 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test: Store 1" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="Store 1" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="RAILS_ENV" value="test" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="spec: Store 1" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="Store 1" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Production: Store 1" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="Store 1" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Development: Store 1" type="RailsRunConfigurationType" factoryName="Rails">
-      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="Store 1" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
-      <method />
-    </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Rake.test: Store 1" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.spec: Store 1" />
-      <item index="2" class="java.lang.String" itemvalue="Rails.Production: Store 1" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Development: Store 1" />
+    <list>
+      <item itemvalue="Rake.test: Store 1" />
+      <item itemvalue="Rake.spec: Store 1" />
+      <item itemvalue="Rails.Production: Store 1" />
+      <item itemvalue="Rails.Development: Store 1" />
     </list>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -330,67 +496,97 @@
       <option name="presentableId" value="Default" />
       <updated>1522083719967</updated>
       <workItem from="1522083722779" duration="1047000" />
+      <workItem from="1524302832811" duration="4425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1047000" />
+    <option name="totallyTimeSpent" value="5472000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="67" y="25" width="1293" height="638" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25379938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536736" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.3287879" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/mailer.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/mailer.text.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/mailer.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/mailer.text.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_main_nav_bar.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/application_record.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/content/cvv.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="177">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/mailer.text.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/spree/layouts/spree_application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-54" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_sidebar.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_nav_bar.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
         </state>
       </provider>
     </entry>
